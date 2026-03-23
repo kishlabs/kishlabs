@@ -1,170 +1,387 @@
-<!-- 🚀 Super Stylish, Animated GitHub Profile README for Kishore Kumar S -->
+<div align="center">
 
-<p align="center">
-  <img src="assets/banner-custom.gif" width="100%" alt="header GIF" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=FFD97D&center=true&vCenter=true&width=800&height=100&lines=⚡+KISHORE+KUMAR+S;🔌+VLSI+Design+Engineer;RTL+→+Synthesis+→+Silicon" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=318DFF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Kishore+Kumar+S+👋;Pre-Final+Year+ECE+Student+%40+GCE+Erode;Multi-Hackathon+Winner+🏆;Aspiring+VLSI+Engineer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=318DFF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Kishore+Kumar+S+👋;Pre-Final+Year+ECE+Student+%40+GCE+Erode;Multi-Hackathon+Winner+🏆;Aspiring+VLSI+Engineer" alt="Typing SVG" />
-  </a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=kishlabs&color=FFD97D&style=for-the-badge)](https://github.com/kishlabs)
+[![GitHub Followers](https://img.shields.io/github/followers/kishlabs?style=for-the-badge&logo=github&color=00E5FF)](https://github.com/kishlabs?tab=followers)
+[![Years Active](https://img.shields.io/badge/Active-2024%E2%9E%9A2027-39FF8A?style=for-the-badge)](https://github.com/kishlabs)
 
-<p align="center">
-  I'm a passionate Electronics and Communication Engineering student with a strong foundation in digital logic, embedded systems, and hardware prototyping.<br>
-  I thrive in high-pressure environments and have a proven track record of leading teams to <b>build award-winning hardware projects</b> in national-level hackathons.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/kishorekumaroffsec" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kishorekumargcee@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/kishlabs">
-    <img src="https://img.shields.io/github/followers/kishlabs?label=Follow%20me&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 🎯✨ My Career Goal
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtdW/giphy.gif" width="30" alt="rocket"> **The Core Frequency**
 
-> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=1560BD&width=400&lines=🏁+Actively+seeking+a+1-month+VLSI+internship+beginning+December+15th!;" alt="career goal typing SVG" width="500">
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║     🎯 Pre-Final Year ECE @ GCE Erode | CGPA: 8.01/10.0                 ║
+║                                                                          ║
+║  ❯ FPGA Hardware Design (Zynq-7000 Specialist)                          ║
+║  ❯ RTL Architect (Verilog HDL Mastery)                                  ║
+║  ❯ National Hackathon Champion (3× Awards in 2025)                      ║
+║  ❯ VLSI Physical Design Explorer (RTL-to-GDS Journey)                   ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+**Turning Verilog into Silicon | Thinking in Gates | Designing in Logic**
+
+</div>
+
+---
+
+## 🏆 **Achievements Dashboard**
+
+<div align="center">
+
+| Award | Event | Date | Prize |
+|-------|-------|------|-------|
+| 🥈 Runner-Up | **InnovateX** (Presidency University) | 2025 | ₹15,000 |
+| 🏅 Best Innovation | **HackTronix** (Hardware Hackathon) | 2025 | ₹2,000 |
+| 🎯 Top 70/2500+ | **SPRINTATHON'25** (National) | 2025 | Recognition |
+| ⭐ Finalist | **4+ National Competitions** | 2024-25 | Multiple |
+
+</div>
+
+---
+
+## 📊 **Tech Stack & Skills**
+
+<div align="center">
+
+### **RTL/HDL Design**
+[![Verilog](https://img.shields.io/badge/Verilog-RTL_Master-FFD97D?style=flat-square&logo=verilog&logoColor=white)](https://github.com/kishlabs)
+[![HDL](https://img.shields.io/badge/HDL-Design-00E5FF?style=flat-square)](https://github.com/kishlabs)
+[![FSM](https://img.shields.io/badge/FSM-Expert-39FF8A?style=flat-square)](https://github.com/kishlabs)
+[![Testbench](https://img.shields.io/badge/Testbench-Writing-FF3860?style=flat-square)](https://github.com/kishlabs)
+
+### **FPGA/EDA Tools**
+[![Xilinx Vivado](https://img.shields.io/badge/Xilinx-Vivado_2023.x-FF6B35?style=flat-square&logo=xilinx)](https://github.com/kishlabs)
+[![Zynq-7000](https://img.shields.io/badge/Zynq--7000-SoC_Expert-FFD97D?style=flat-square)](https://github.com/kishlabs)
+[![Zedboard](https://img.shields.io/badge/Zedboard-Hardware-00E5FF?style=flat-square)](https://github.com/kishlabs)
+[![FPGA](https://img.shields.io/badge/FPGA-Development-39FF8A?style=flat-square&logo=fpga)](https://github.com/kishlabs)
+
+### **Embedded Systems**
+[![ESP32](https://img.shields.io/badge/ESP32-Core_Dev-FF6B35?style=flat-square&logo=espressif)](https://github.com/kishlabs)
+[![ESP-NOW](https://img.shields.io/badge/ESP--NOW-Protocol-00E5FF?style=flat-square)](https://github.com/kishlabs)
+[![RFID](https://img.shields.io/badge/RFID-Auth_Systems-39FF8A?style=flat-square)](https://github.com/kishlabs)
+[![PID Control](https://img.shields.io/badge/PID-Control_Tuning-FFD97D?style=flat-square)](https://github.com/kishlabs)
+
+### **VLSI/Physical Design (Learning Path)**
+[![RTL-to-GDS](https://img.shields.io/badge/RTL--to--GDS-In_Progress-FF6B35?style=flat-square)](https://github.com/kishlabs)
+[![Logic Synthesis](https://img.shields.io/badge/Synthesis-Learning-00E5FF?style=flat-square)](https://github.com/kishlabs)
+[![Timing Analysis](https://img.shields.io/badge/Timing-Analysis-FFD97D?style=flat-square)](https://github.com/kishlabs)
+[![DRC/LVS](https://img.shields.io/badge/DRC%2FLVS-Concepts-39FF8A?style=flat-square)](https://github.com/kishlabs)
+
+### **Programming & Tools**
+[![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/kishlabs)
+[![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/kishlabs)
+[![GitHub](https://img.shields.io/badge/GitHub-Collaboration-181717?style=flat-square&logo=github)](https://github.com/kishlabs)
+
+### **Certifications**
+[![NPTEL Elite + Silver](https://img.shields.io/badge/NPTEL-Elite%20%2B%20Silver-39FF8A?style=for-the-badge)](https://github.com/kishlabs)
+[![NPTEL Elite + Silver](https://img.shields.io/badge/NPTEL-Elite%20%2B%20Silver-39FF8A?style=for-the-badge)](https://github.com/kishlabs)
+
+</div>
+
+---
+
+## 🎯 **The VLSI Pipeline**
+
+<div align="center">
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃                     RTL → SYNTHESIS → FPGA → SILICON                  ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+          ⚡ VERILOG RTL               🔧 VIVADO TOOLS           🎯 BITSTREAM
+          ─────────────────────────────────────────────────────────────
+          ✓ FSM Design                ✓ Synthesis               ✓ On Zedboard
+          ✓ ALU/Counters              ✓ Place & Route           ✓ Real-Time Test
+          ✓ Combinational Logic       ✓ Timing Analysis         ✓ GPIO Interface
+          ✓ Sequential Circuits       ✓ Power Optimization     ✓ Hardware Verify
+          ✓ Testbench Coverage        ✓ Resource Mapping       ✓ Deployed
+```
+
+</div>
+
+---
+
+## 🚀 **Featured Projects**
+
+<div align="center">
+
+### 🔌 **[Zynq-7000 GPIO Logic Workbench](https://github.com/kishlabs)**
+[![Status](https://img.shields.io/badge/Status-85%25%20Complete-FFD97D?style=flat-square)](https://github.com/kishlabs)
+[![Language](https://img.shields.io/badge/Language-Verilog%20%7C%20Block%20Design-00E5FF?style=flat-square)](https://github.com/kishlabs)
+[![Platform](https://img.shields.io/badge/Platform-Zynq--7000%20Zedboard-39FF8A?style=flat-square)](https://github.com/kishlabs)
+
+*RTL Implementation · Vivado 2023.x · GPIO Experiments*
+
+---
+
+### 📡 **[Carmunicate — V2V Communication System](https://github.com/kishlabs)**
+![Top 70](https://img.shields.io/badge/🎯_Top_70-2500%2B_Teams-FF3860?style=flat-square)
+![Runner-Up](https://img.shields.io/badge/💰_Runner--Up-₹15K-FFD97D?style=flat-square)
+[![Language](https://img.shields.io/badge/Language-ESP32%20C%2B%2B-FF6B35?style=flat-square)](https://github.com/kishlabs)
+
+*Real-time Vehicle-to-Vehicle Wireless Communication | ESP-NOW Protocol*
+
+**Features:**
+- Dynamic message prioritization
+- Automatic device pairing
+- Multi-sensor fusion
+- Proximity-based safety alerts
+
+---
+
+### 🤖 **[CyberGuardian — Autonomous Patrol Car](https://github.com/kishlabs)**
+![Award](https://img.shields.io/badge/🏅_Best_Innovation-HackTronix-39FF8A?style=flat-square)
+[![Language](https://img.shields.io/badge/Language-ESP32%20%7C%20RFID-00E5FF?style=flat-square)](https://github.com/kishlabs)
+
+*RFID-Based Security | Autonomous Navigation | Edge Intelligence*
+
+**Features:**
+- RFID access authorization
+- Ultrasonic collision avoidance
+- Autonomous patrol routing
+- Zero cloud dependency
+
+---
+
+### 📚 **[FPGA Mini Projects — RTL Library](https://github.com/kishlabs)**
+[![Status](https://img.shields.io/badge/Status-Complete-39FF8A?style=flat-square)](https://github.com/kishlabs)
+[![Language](https://img.shields.io/badge/Language-Verilog%20HDL-FFD97D?style=flat-square)](https://github.com/kishlabs)
+
+*Systematic RTL Implementation Series*
+
+```
+✓ Ripple Counters          ✓ Synchronous Counters
+✓ ALU Arithmetic Units     ✓ 4:1 Multiplexers
+✓ LED State Controllers    ✓ Mealy/Moore FSM
+✓ Full Testbench Suite     ✓ FPGA Synthesis
+```
+
+---
+
+### 🏎️ **[High-Speed Line Follower Robot](https://github.com/kishlabs)**
+[![Language](https://img.shields.io/badge/Language-Embedded%20C-FF6B35?style=flat-square)](https://github.com/kishlabs)
+
+*PID Control · Sensor Sampling · 3D-Printed Mechanics*
+
+</div>
+
+---
+
+## 📜 **Certifications & Education**
+
+<div align="center">
+
+### 🏆 **NPTEL Credentials** (IIT-Endorsed)
+![VLSI Design Flow](https://img.shields.io/badge/NPTEL_Elite_%2B_Silver-VLSI_Design_Flow:_RTL_to_GDS-39FF8A?style=for-the-badge)
+![Digital System Design](https://img.shields.io/badge/NPTEL_Elite_%2B_Silver-Digital_System_Design-00E5FF?style=for-the-badge)
+
+### 📚 **Academic**
+[![B.E. ECE](https://img.shields.io/badge/B.E._Electronics_%26_Communication-GCE_Erode-FFD97D?style=flat-square)](https://github.com/kishlabs)
+[![CGPA](https://img.shields.io/badge/CGPA-8.01%2F10.0-39FF8A?style=flat-square)](https://github.com/kishlabs)
+[![Status](https://img.shields.io/badge/Status-Pre--Final_Year-00E5FF?style=flat-square)](https://github.com/kishlabs)
+
+### 🎓 **LinkedIn Learning**
+- ✅ FPGA Development Fundamentals
+- ✅ Learning Verilog for FPGA Development
+- ✅ VLSI for Beginners (NIELT)
+
+</div>
+
+---
+
+## 📊 **Skill Matrix** (Interactive)
+
+<div align="center">
+
+```
+RTL/HDL Design         ████████████████████ 100%
+FPGA Development       ██████████████████░░  90%
+Embedded Systems       ██████████████████░░  90%
+Verilog HDL            ████████████████████ 100%
+VLSI Physical Design   ███████████░░░░░░░░░  55%
+Timing Analysis        █████���████░░░░░░░░░░  50%
+Documentation          ██████████████████░░  90%
+GitHub Collaboration   ████████████████████ 100%
+```
+
+</div>
+
+---
+
+## 🎪 **Why Collaborate With Me?**
+
+<table align="center">
+<tr>
+<td>
+
+### ✅ **Real Silicon Experience**
+- Actual bitstreams on Zynq-7000
+- Zedboard hands-on prototyping
+- GPIO interfacing & verification
+
+</td>
+<td>
+
+### 🏆 **National Track Record**
+- Top 70 of 2500+ teams
+- Multiple hackathon awards
+- ₹15K+ prize recognition
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🧠 **Full-Stack Hardware**
+- RTL to firmware
+- Gates to applications
+- Embedded + VLSI hybrid
+
+</td>
+<td>
+
+### 📚 **Elite Certifications**
+- 2× NPTEL Elite + Silver
+- IIT-endorsed credentials
+- Research-ready mindset
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔗 **Connect & Collaborate**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kishore_Kumar_S-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kishhh)
+[![GitHub](https://img.shields.io/badge/GitHub-kishlabs-181717?style=for-the-badge&logo=github)](https://github.com/kishlabs)
+[![Email](https://img.shields.io/badge/Email-kishore%40example.com-FF6B35?style=for-the-badge&logo=gmail)](mailto:kishore@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-VLSI_Design-FFD97D?style=for-the-badge&logo=firefox)](https://github.com/kishlabs)
+
+### **Open To:**
+- 🎯 VLSI Design Internships (2025–26)
+- 🔬 Research Opportunities (RTL-to-GDS)
+- 💼 Full-Time Roles (2027+)
+- 🤝 Open-Source Hardware Collaboration
+
+</div>
+
+---
+
+## 🌟 **Current Focus & Learning**
+
+<div align="center">
+
+```
+🎯 PRIMARY OBJECTIVES
+├─ Mastering RTL-to-GDS VLSI Physical Design Flow
+├─ Advanced Timing Analysis & Power Optimization
+├─ Building Reproducible FPGA Workflows
+├─ Contributing to Open-Source Hardware
+└─ ASIC Design & Chip Architecture
+
+📈 SKILL PROGRESSION
+├─ RTL Design         [████████████████████] 100% Mastered
+├─ FPGA Dev          [██████████████████░░]  90% Expert
+├─ VLSI P&D          [███████████░░░░░░░░░]  55% Learning
+├─ Timing Analysis   [██████████░░░░░░░░░░]  50% Active
+└─ ASIC Design       [████░░░░░░░░░░░░░░░░]  20% Upcoming
+```
+
+</div>
+
+---
+
+## 📈 **By The Numbers**
+
+<div align="center">
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| **Years Building Hardware** | 2+ | 🚀 Growing |
+| **National Hackathons** | 3+ Wins | 🏆 Active |
+| **FPGA Projects** | 10+ | ✅ Documented |
+| **NPTEL Certifications** | 2 Elite+Silver | 🎓 IIT-Endorsed |
+| **CGPA** | 8.01/10 | ⭐ Strong |
+| **Zynq Experience** | Zedboard | 🔌 Hands-On |
+| **RTL Modules** | 20+ | 📚 Tested |
+
+</div>
+
+---
+
+## 🎨 **Design Philosophy**
+
+<div align="center">
+
+> **"I don't just code hardware. I synthesize it."**
 >
-> I am eager to apply my skills and gain hands-on industry exposure in:
+> From RTL written in Verilog to bitstreams running on real silicon—
+> every line of HDL has a physical footprint.
 >
->   • **RTL Design**  
->   • **Design Verification (DV)**  
->   • **Physical Design (PD)**
+> **Think in gates. Design in logic. Build in silicon.**
+
+</div>
 
 ---
 
-## 🚀✨ My Technical Skillset
+## 📊 **GitHub Stats**
 
-<p align="center">
-  <b>VLSI & Digital Logic</b><br>
-  <img src="https://img.shields.io/badge/Verilog-1E4099?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog"/>
-  <img src="https://img.shields.io/badge/Xilinx-Vivado-F8981D?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado"/>
-  <img src="https://img.shields.io/badge/FPGA-D8503C?style=for-the-badge&logo=fpga&logoColor=white" alt="FPGA"/>
-  <img src="https://img.shields.io/badge/Digital_Logic-00629B?style=for-the-badge" alt="Digital Logic"/>
-  <br><br>
-  
-  <b>Embedded & Hardware</b><br>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="Embedded C"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
-  <br><br>
-  
-  <b>Programming & Tools</b><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/LTspice-A80000?style=for-the-badge" alt="LTspice"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishlabs&show_icons=true&theme=radical&bg_color=010408&text_color=e8f0f8&title_color=ffd97d&icon_color=00e5ff&border_color=ffd97d&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishlabs&layout=compact&theme=radical&bg_color=010408&text_color=e8f0f8&title_color=ffd97d&border_color=ffd97d&border_radius=10)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kishlabs&theme=radical&background=010408&ring=FFD97D&fire=FF3860&currStreakLabel=39FF8A&border=0F2540)](https://github.com/kishlabs)
+
+</div>
 
 ---
 
-## 📊✨ My GitHub Activity
+## 🎯 **Next Steps**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kishlabs&theme=radical&hide_border=false&fire=DD2727&ring=3385FF" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kishlabs&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishlabs&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<!-- 🏆 GitHub Profile Trophy section for maximum style -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishlabs&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true&margin-w=10&margin-h=15" alt="GitHub trophies" />
-</p>
+```
+╔════════════════════════════════════════════════════════════════╗
+║  STATUS: 🟢 OPEN TO OPPORTUNITIES                            ║
+║                                                                ║
+║  📍 Location: Tamil Nadu, India                              ║
+║  ⏰ Availability: Immediate (with academic flexibility)      ║
+║  🎓 Timeline: Seeking roles for 2027+                        ║
+║  💡 Mission: Build next-gen VLSI/ASIC products              ║
+║                                                                ║
+║  👉 Let's turn Verilog into silicon together!               ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
----
-
-## 🏆 Sparkling Hackathon & Competition Highlights
-
-My passion for building things shines in competitive events:
-
-- 🥈 <b>2nd Place Winner (₹15,000)</b> – InnovateX Hackathon, Presidency University, Bangalore  
-  <em>Built a complete smart parking and automation system from scratch.</em>
-
-- 🏅 <b>Best Innovation Award (₹2,000)</b> – HackInTronix Hardware Hackathon  
-  <em>Rapid-prototyped a V2V hardware alert module under a 24-hour deadline.</em>
-
-- 🥇 <b>Winner (₹3,000)</b> – Line Follower Robotics (Conscientia'24), IIST  
-  <em>Designed and built a high-speed, PID-controlled robot with custom mechanics.</em>
-
-- 🚀 <b>Top 70 / 2500+ Teams</b> – Sprintathon’25 National Hackathon  
-  <em>Developed "Carmunicate," an ESP-NOW based V2V safety device.</em>
-
-- 🤖 <b>Prototype Showcase</b> – CyberGuardian (GALAXY’24 Symposium)  
-  <em>Presented an autonomous patrol vehicle with RFID security features.</em>
+</div>
 
 ---
 
-## 🛠️✨ Featured Projects
+<div align="center">
 
-_Note: I'm documenting and uploading these projects. More coming soon!_
+### ⭐ **If you like this work, let's collaborate!**
 
-### 1. Carmunicate – V2V Communication System ✨
-
-- **Description:** Retrofit Vehicle-to-Vehicle module using ESP32 and ESP-NOW for real-time hazard alerts and monitoring.
-- **Tech:** ESP32, ESP-NOW, Embedded C, Sensor Integration.
-
-### 2. Autonomous Patrol Vehicle (CyberGuardian) 🚗
-
-- **Description:** ESP32-based autonomous patrolling robot with integrated RFID authentication.
-- **Tech:** ESP32, RFID, Motor Drivers, Embedded C.
-
-### 3. FPGA Mini-Projects (RTL) 🖥️
-
-- **Description:** Fundamental digital logic designs on Arty S7 & ZedBoard FPGA boards.
-- **Modules:** ALU Blocks, Counters, FSM Controllers, Multiplexers.
-- **Flow:** RTL (Verilog) → Simulation → Synthesis → Implementation → Board Test.
+**Drop a star ⭐ | Fork a project 🍴 | Let's build silicon 🔌**
 
 ---
 
-## 📜✨ Certifications
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=39FF8A&center=true&vCenter=true&width=600&lines=RTL+%E2%86%92+Synthesis+%E2%86%92+FPGA+%E2%86%92+Silicon;Verilog+Architect+%7C+VLSI+Explorer;Hardware+Engineer+in+Progress" alt="Closing Line" />
 
-- **NPTEL:** Digital System Design (Elite)
-- **LinkedIn Learning:** Learning FPGA Development
-- **LinkedIn Learning:** Verilog for FPGA Development
-- **ISRO:** Geodata Processing using Python & Machine Learning
+**Last Updated:** March 2026 | [⬆ Back to Top](#top)
 
----
-
-<p align="center">
-  <img src="assets/sparkle-divider.svg" width="80%" alt="sparkle divider"/>
-</p>
-
-## ✨ Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/kishorekumaroffsec" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-kishorekumaroffsec-%230077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:kishorekumargcee@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kishorekumargcee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kishlabs">
-    <img src="https://img.shields.io/github/followers/kishlabs?label=Follow%20me&style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-  <b>✨ Thanks for visiting! Stay awesome! 🚀</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0888D1,100:CDDFFC&height=120&section=footer"/>
-</p>
-
-<!--
-Tips:
-- For even more sparkle, place animated custom banners or GIFs in /assets and reference them at the top!
-- Use https://github.com/ryo-ma/github-profile-trophy for Profile Trophies.
-- Sprinkle in more Unicode sparkles (✨, 🚀, 🥇, 🏆, etc.) wherever you like.
-- Design your own section/row SVGs in /assets to use as stylish dividers!
--->
+</div>
